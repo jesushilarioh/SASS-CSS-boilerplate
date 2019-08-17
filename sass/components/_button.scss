@@ -1,1 +1,24 @@
 // Components/Button
+// Components/Button
+.button {
+    &,
+    &:link,
+    &:visited {
+        
+    }
+
+    &:hover {
+        &::after {
+
+        }
+    }
+
+    &:active,
+    &:focus {
+        
+    }
+
+    &::after {
+ 
+    }
+}
